@@ -1,5 +1,6 @@
 # Telegram Crash Game
 
+Мотивация для додепа: https://soundcloud.com/user-820087579-852152761/dodep-icegergert-name
 Честная crash-игра (аналог Aviator) с интеграцией Telegram и TON кошелька.
 
 ![Demo](0824.gif)
